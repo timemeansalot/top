@@ -1,0 +1,6 @@
+[submodule "back_end"]
+	path = back_end
+	url = https://github.com/timemeansalot/back_end
+[submodule "front_end"]
+	path = front_end
+	url = https://github.com/timemeansalot/front_end
